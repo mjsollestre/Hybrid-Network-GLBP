@@ -1,2 +1,3 @@
 # Hybrid-Network-GLBP
-Designing a Hybrid Network and Implementing Gateway Load Balancing Protocol (GLBP) for PhilHealth Local Health Insurance Office Lucena
+In today's digital age, efficient and reliable communication networks are a must. The study explores a hybrid network design for the PhilHealth Local Health Insurance Office in Lucena integrating Gateway Load Balancing Protocol (GLBP) and Enhanced Interior Gateway Routing Protocol for IPv4 to address load balancing, fault tolerance, and scalability. The design incorporates partial mesh topology with active and pseudo gateways that ensure resilience and continuous functionality. Experimental results indicate the superior performance of GLBP in CPU efficiency, convergence time, and traffic management. By combining the ring-star and partial mesh topologies, the proposed network meets the requirements for scalability, reliability, 
+and performance of PhilHealth, while it also sets a stage for future improvements. 
